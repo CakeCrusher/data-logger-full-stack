@@ -1,10 +1,8 @@
-# data_logger-backend
-
-## set-up
-1. install packages `npm install`
-2. create a google cloud account
-3. follow [these](https://cloud.google.com/storage/docs/creating-buckets) steps to create a bucket named `speeches_to_transcribe`
-4. enable "Cloud Speech-to-Text API" under "APIs and Services" -> "Library"
-5. follow [these](https://cloud.google.com/iam/docs/creating-managing-service-account-keys) steps to create and download a service account key
-6. add the key to the root directory of the project and name it `voice-logger-key.json`
-7. start with `npm run start-dev`
+# data-logger
+https://user-images.githubusercontent.com/37946988/129786355-e280dafb-6fbe-42de-9593-95374a4a9c0c.mov
+# set-up
+1. have [expo](https://expo.dev/) installed
+2. install dependencies `npm install`
+3. [set-up backend](https://github.com/CakeCrusher/data_logger-backend#set-up)
+4. replace [`backendURL`](https://github.com/CakeCrusher/data-logger/blob/main/screens/Record.tsx#L24) with the appropriate back-end url
+## [Discord](https://discord.gg/qMnmja6dG4)
