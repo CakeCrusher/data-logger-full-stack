@@ -1,5 +1,9 @@
 # data-logger
-https://user-images.githubusercontent.com/37946988/129786355-e280dafb-6fbe-42de-9593-95374a4a9c0c.mov
+
+
+https://user-images.githubusercontent.com/37946988/190682983-abbd0c8b-04ea-4908-a14a-68806e96acb1.mp4
+
+
 # set-up
 1. have [expo](https://expo.dev/) installed
 2. install dependencies `npm install`
